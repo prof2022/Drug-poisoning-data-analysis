@@ -1,7 +1,7 @@
 
 ---
 
-# 💊 Drug Poisonings Data Analysis Dashboard
+# 💊 Drug Poisonings Dashboard
 
 ![my screenshot](https://github.com/prof2022/Drug-poisoning-data-analysis/blob/Master/assets/Screenshot%20(38).png)
 
